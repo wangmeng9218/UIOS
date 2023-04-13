@@ -1,2 +1,2 @@
 # UIOS
-The code will be released upon acceptance.
+The code can be found in https://github.com/LooKing9218/UIOS
